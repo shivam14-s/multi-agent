@@ -1,0 +1,12 @@
+.env
+__pycache__
+swiggy
+.DS_Store
+*.log
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzw
